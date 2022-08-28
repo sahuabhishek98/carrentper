@@ -1,0 +1,20 @@
+**Customer Login Details**
+
+Username: Raj123
+Password: 12345
+Username: rish
+Password: 12345
+Username: sahuabhi
+Password: 12345
+
+
+
+**Employee Login Details**
+Username: tom
+Password: password
+
+Username: harry
+Password: password
+
+Username: jenny
+Password: jenny
